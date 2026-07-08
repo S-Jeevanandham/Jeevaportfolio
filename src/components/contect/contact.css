@@ -107,6 +107,50 @@
 .contact__form-area textarea {
     resize: none;
 }
+/* The base styling for the message box */
+.contact__status-message {
+  padding: 12px 16px;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-align: center;
+  transition: all 0.3s ease;
+  animation: fadeIn 0.4s ease forwards;
+}
+
+/* 1. Success Design (Green) */
+.contact__status-message.success {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #c8e6c9;
+}
+
+/* 2. Error Design (Red) */
+.contact__status-message.error {
+  background-color: #ffebee;
+  color: #c62828;
+  border: 1px solid #ffcdd2;
+}
+
+/* 3. Sending Design (Blue/Gray) */
+.contact__status-message.sending {
+  background-color: #e3f2fd;
+  color: #1565c0;
+  border: 1px solid #bbdefb;
+}
+
+/* Optional: A quick animation so it pops in smoothly */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
