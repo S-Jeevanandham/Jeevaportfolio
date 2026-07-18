@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Jeevaportfolio/static/css/main.10555eca.css",
+    "main.js": "/Jeevaportfolio/static/js/main.0768aa3a.js",
+    "static/js/453.3a92521d.chunk.js": "/Jeevaportfolio/static/js/453.3a92521d.chunk.js",
+    "static/media/Jeevanandham_Resume.pdf": "/Jeevaportfolio/static/media/Jeevanandham_Resume.d81de956127a1f13bd8b.pdf",
+    "static/media/work1.png": "/Jeevaportfolio/static/media/work1.fa30986e38a3875354d7.png",
+    "static/media/Jeevanantham S.png": "/Jeevaportfolio/static/media/Jeevanantham S.a2d8107fac49d5177bf1.png",
+    "static/media/work6.png": "/Jeevaportfolio/static/media/work6.e06e2b2caf5a2e2e6fb4.png",
+    "static/media/work7.png": "/Jeevaportfolio/static/media/work7.e098e433732d038b186a.png",
+    "static/media/work5.png": "/Jeevaportfolio/static/media/work5.3b39734d872f309d32c0.png",
+    "static/media/Certificate4.jpg": "/Jeevaportfolio/static/media/Certificate4.0349651e240eb17cff92.jpg",
+    "static/media/Certificate1.jpg": "/Jeevaportfolio/static/media/Certificate1.e7ddd1539acdc1ec5bc1.jpg",
+    "static/media/Certificate2.jpg": "/Jeevaportfolio/static/media/Certificate2.7ad5883ef1cfcf946f10.jpg",
+    "index.html": "/Jeevaportfolio/index.html",
+    "main.10555eca.css.map": "/Jeevaportfolio/static/css/main.10555eca.css.map",
+    "main.0768aa3a.js.map": "/Jeevaportfolio/static/js/main.0768aa3a.js.map",
+    "453.3a92521d.chunk.js.map": "/Jeevaportfolio/static/js/453.3a92521d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10555eca.css",
+    "static/js/main.0768aa3a.js"
+  ]
+}
